@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Sujit 👋</h1>
-<h2 align="center">Sujit Mondal</h1>
+<h2 align="center">Sujit Kumar Mondal</h1>
 <h2>💫Summary </h2>
 🌱 As a dedicated Software Engineer with a strong foundation in backend and frontend development, I have consistently demonstrated proficiency in technologies such as ReactJs, NodeJS, NestJS, and Typescript. My expertise extends to designing and implementing RESTful APIs, optimizing database performance with PostgreSql, and contributing to the development of scalable microservices within a Microservice Architecture. I have successfully integrated third-party APIs to enhance collaboration with industry leaders.<br/>
 <h3 align="left">Current Tech Stack:</h3>
